@@ -48,7 +48,7 @@ public class NewStudentActivity extends Activity implements OnClickListener{
 			alert.show();
 		}
 		else
-			Log.i("Row________________________ Inserted", "" + rowid);
+			Log.i("Row_______________________ Inserted=====", "" + rowid);
 	}
 	private void extractStudentData() {
 		// TODO Auto-generated method stub
